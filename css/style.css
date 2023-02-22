@@ -409,13 +409,7 @@ row::before{
     margin: 0.5rem;
     color: var(--min-color);
 }
-.products {
-    margin-top: 10rem;
-}
-.contact {
-    margin-top: 10rem;
-}
-.facilities {
+.products , .contact , .facilities {
     margin-top: 10rem;
 }
 
